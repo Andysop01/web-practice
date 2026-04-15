@@ -1,0 +1,36 @@
+html{
+    background-color: blue;
+}
+h1{
+    font-weight: bold; color: black;
+}
+.self{
+    color:black; font-weight: bold; font-size: 20pt;
+}
+img{
+    height: 1000px; width: 1000px;
+}
+*{
+   color: bisque; 
+}
+p{
+    font-size: 20px;
+}
+.Goal{
+    font-weight: bold; color: black; font-size: 20pt;
+}
+.family{
+    font-family: cursive;
+}
+.job{
+    color: black; font-weight: bold; font-size: 20pt;
+}
+#link{
+    color: black; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: bold; text-align: right;
+}
+.text{
+    text-align: right;
+}
+.style{
+    font-style: italic; background-color: brown; color: aliceblue;
+}
